@@ -1,4 +1,4 @@
-package Aula01;
+package aula01;
 
 public class Subtracao {
     public static void main(String[] args) {
